@@ -38,16 +38,16 @@ monitors:
     method: GET
     expectStatus: 200
 
-  - id: 回声主站
-    name: 回声主站
-    url: 'https://hspt.club/'
-    method: GET
-    expectStatus: 200
-    linkable: false
+  # - id: 回声主站
+  #   name: 回声主站
+  #   url: 'https://hspt.club/'
+  #   method: GET
+  #   expectStatus: 200
+  #   linkable: false
     
-  - id: 回声测试站
-    name: 回声测试站
-    url: 'https://test.hspt.club/'
-    method: GET
-    expectStatus: 200
-    linkable: true
+  # - id: 回声测试站
+  #   name: 回声测试站
+  #   url: 'https://test.hspt.club/'
+  #   method: GET
+  #   expectStatus: 200
+  #   linkable: true
